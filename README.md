@@ -8,7 +8,7 @@
 - 🛠️ Building cool stuff with **Stereo Vision**, **Depth Maps**, and **Real-time Object Detection**  
 - 🌱 Currently diving deeper into **3D Vision**, **Robotics**, and **Edge AI**  
 - ✈️ Intern at Ninano, working on autonomous drone obstacle detection
-- 🌍 Passionate about using technology for **sustainability** and **vegan innovation**
+- 🌍 Passionate about using technology for **sustainability** and **innovation**
 
 ---
 
@@ -32,8 +32,7 @@
 
 ---
 
-⚡ **Fun Facts**  
-- I can probably fix your drone faster than your Wi-Fi 🛠️
+⚡ **Fun Facts** 
 - Love blending tech, creativity, and a little bit of madness 🤹‍♂️
 - Secretly training to become a **Chessboard Image Capture Champion** 🏆
 
@@ -46,5 +45,5 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Ranjit's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ranjit&show_icons=true&theme=radical" alt="Ranjit's GitHub stats" />
 </p>
