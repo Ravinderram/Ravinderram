@@ -24,7 +24,6 @@
 📈 **Current Focus**  
 - 📸 Stereo Vision with Raspberry Pi
 - 🛰️ Drone Navigation and Obstacle Avoidance
-- 🥦 AI-powered Vegan Food Innovations
 - 📚 Preparing for Postgraduate Studies (Drone Tech + AI 🚀)
 
 ---
