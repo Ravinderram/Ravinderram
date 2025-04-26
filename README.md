@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ranjith!</h1>
+<h1 align="center">Hi there 👋, I'm Ranjit Singh!</h1>
 <h3 align="center">Turning ideas into reality through AI, Drones, and a lot of Coffee ☕🚁🤖</h3>
 
 ---
