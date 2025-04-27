@@ -45,5 +45,10 @@
 ---
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Ranjit&show_icons=true&theme=radical" alt="Ranjit's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ravinderram&show_icons=true&theme=radical" alt="Ranjit's GitHub stats" />
 </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinderram&layout=compact&theme=radical" alt="Ranjit's Most Used Languages" />
+</p>
+
+
