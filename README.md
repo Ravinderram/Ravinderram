@@ -4,9 +4,9 @@
 ---
 
 🌟 **About Me**  
-- 🎓 BSc in Artificial Intelligence | Future Drone Expert
-- 🛠️ Building cool stuff with **Stereo Vision**, **Depth Maps**, and **Real-time Object Detection**  
-- 🌱 Currently diving deeper into **3D Vision**, **Robotics**, and **Edge AI**  
+- 🎓 BSc graduate in Artificial Intelligence 
+- 🛠️ Building cool stuff with **Stereo Vision**, **Depth Maps** and **Real-time Object Detection**  
+- 🌱 Currently diving deeper into **3D Vision**, **Robotics** and **Edge AI**  
 - ✈️ Intern at Ninano, working on autonomous drone obstacle detection
 - 🌍 Passionate about using technology for **sustainability** and **innovation**
 
@@ -19,22 +19,17 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 📈 **Current Focus**  
 - 📸 Stereo Vision with Raspberry Pi
 - 🛰️ Drone Navigation and Obstacle Avoidance
-- 📚 Preparing for Postgraduate Studies (Drone Tech + AI 🚀)
 
 ---
 
-⚡ **Fun Facts** 
-- Love blending tech, creativity, and a little bit of madness 🤹‍♂️
-- Secretly training to become a **Chessboard Image Capture Champion** 🏆
-
----
 
 📬 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-singh-521400350/)  
